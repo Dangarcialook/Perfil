@@ -27,6 +27,7 @@ Teamwork
 Communication
 Problem-solving
 Eagerness to learn |
+
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
 | Contact | How people can reach you |
