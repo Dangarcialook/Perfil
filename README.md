@@ -15,7 +15,18 @@ A public web page with six sections:
 |---|---|
 | Home | Daniel Garcia, Systems Engineering Student, your links |
 | About |I'm Daniel Garcia, a Systems Engineering student currently in my third semester. I'm passionate about learning new technologies and solving problems through code. I'm always looking for opportunities to grow my skills. |
-| Skills | Your technical and professional skills |
+| Skills | Technical Skills:
+
+MySQL
+phpMyAdmin
+Command Line / Terminal
+
+Professional Skills:
+
+Teamwork
+Communication
+Problem-solving
+Eagerness to learn |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
 | Contact | How people can reach you |
